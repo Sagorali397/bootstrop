@@ -1,0 +1,312 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+/*--start--slidle--*/
+.rrrr{
+	margin-top:-450px;
+}
+.rrrrr{
+	margin-top:-350px;
+}
+
+
+/*--end--slidle--*/
+/*--start--package--*/
+.package{
+	
+	background-image:url("../img/coronavirushh.jpg");
+	background-position:top;
+	overflow:hidden;
+	background-repeat:no-repeat;
+	
+}
+.ma{
+	background-color:rgba(156,39,176,.9);
+	padding: 37px;
+}
+.papa{
+	    padding: 37px;
+		background-color:rgba(46,104,23,.9);
+}
+.dada{
+	    padding: 37px;
+		background-color:rgba(101,163,44,.9);
+}
+.dadi{
+	    padding: 37px;
+		background-color:rgba(119,81,32,.9);
+}
+.zszs{
+	font-family: "Montserrat",Arial,Helvetica,sans-serif;
+    font-weight: 700;
+    text-decoration: underline;
+}
+.ktta{
+	    font-size: 44px;
+    font-weight: 700;
+    line-height: 1.1;
+}
+.sese{
+	top: -1.2em;
+    font-size: 16px;
+}
+.small, small {
+    font-size: 44%;
+    font-weight: 400;
+}
+/*--end--package--*/
+/*--start--footer--*/
+.footer{background-color: #178922;
+    background-repeat: no-repeat;
+    background-image: url(../img/MEMBER1.png);
+}
+.contain{
+	width:90%;
+}
+.tttt{
+	width:30%;
+}
+.tttt {
+    padding-left: 53px;
+    margin-left: 40px;
+    width: 30%;
+}
+.dala{
+	font-size:20px;
+}
+.bhbh{
+	    background: #37b20a !important;
+    margin-top: 3rem!important;
+    margin-top: 81px !important;
+}
+/*--end--footer--*/
+
+/*--start--Audiobook--*/
+.Audiobook{
+	
+	background-image:url("../img/banner.webp");
+	background-position:top;
+	overflow:hidden !important;
+	background-repeat:no-repeat;
+}
+.alo {
+	margin-left: 110px;
+	max-width: 70%;
+    height:auto;
+}
+
+.rrr{ 
+	margin-right:-70px;
+	float:left;
+}
+.nil{
+	    color: rgb(244, 180, 41);
+		padding:0px 100px;
+	    font-weight: 500;
+}
+.lal{
+	color: #999;
+    padding: 0px 90px;
+    font-weight: 500;
+
+}
+/*--end--Audiobook--*/
+/*--start--Upcoming--*/
+.Upcoming{
+	background-color:#fdf3de;
+	padding:100px 0px;
+	overflow:hidden;
+}
+
+
+.xx{
+	    padding: 34px;
+}
+.aa{
+	margin-top: -45px;
+	
+}
+.p-3 {
+    font-weight: 400;
+  
+}
+.danger{
+    color: #F5B429;
+    font-weight: 500;
+}
+
+
+/*--end--Upcoming--*/
+/*--start--who--*/
+.who{
+	padding:100px 60px;
+	overflow:hidden;
+	
+}
+.navy{
+	    width: 36%;
+    height: 50px;
+}
+button.vavy {
+    width: 40%;
+height: 46px;}
+.ggg{
+    margin-top: 200px;
+    padding-left: 36px;
+    margin-top: 200px;
+    padding-right: 70px;
+}
+
+ .ll{     font-size: 33px;
+    line-height: 60px;
+    font-family: "Playfair Display";
+
+}
+.ss{
+	
+	font-weight: bold;
+    letter-spacing: 4px;
+}
+.jj{
+	    font-family: 'playfair';
+     font-size: 90px; 
+    line-height: 30px;
+    vertical-align: middle;
+    margin-bottom: -20px;
+    margin-right: 20px;
+}
+.hhh{font-size: 60px;	
+}
+.ww{   font-weight: 400;
+		margin-left: -3px;
+}
+.qq{
+	width:40px;
+	
+}
+ .ttt{  
+	    height: 51px;
+    width: 51px;
+    line-height: 51px;
+    border-radius:50%;
+    background-clip: padding-box;
+    box-shadow: 0 1px 1px rgba(0,0,0,.2);
+    color: #fff;
+    font-size: 45px;
+    background-color: #2176ff;
+	
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 4px;
+    float: left;
+    margin-right: 10px;
+    padding: 0;
+}
+/*--end--who--*/
+/*--start--service--*/
+.Services{
+	background:#E9EBEC;
+	padding:100px 0px;
+	overflow:hidden;
+}
+.ccc{
+	    padding: 37px;
+}
+
+.bbbbbb{
+    width: 23%;
+    height: 51px;
+}
+.fff{
+	
+    padding: 10px 169px;
+}
+.wwww {
+    font-size: 43px !important;;
+    border-radius: 50%;
+    border: 1px solid #666;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-top: 3px;
+	padding:25px;
+}
+
+
+	
+ 
+ i.fa.fa-check-circle {
+    width: 28px;
+    padding: 30px 0px;
+    font-size: 48px;
+}
+.ii{
+	    font-size: 20px;
+}
+
+/*--end--service--*/
+
+/*--start--sammary--*/
+.summary{
+	background:#fff;
+	overflow:hidden;
+	padding:100px 42px;
+}
+.cfcf{     padding: 32px;
+    padding-left: 14px;
+   
+  }
+.dfdf{     padding: 15px;
+    padding-left: 14px;
+   
+  }
+.bhba{
+	    padding-left: 11px;
+}
+
+/*--end--sammary--*/
+/*--start--summary--*/
+
+
+.ttttt{  height: 47px;
+    width: 45px;
+    line-height: 51px;
+    border-radius: 9%;
+    background-clip: padding-box;
+    box-shadow: 0 1px 1px rgba(0,0,0,.2);
+    color: #fff;
+    font-size: 45px;
+    background-color: #2176ff;
+	
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 4px;
+    float: left;
+    margin-right: 10px;
+    padding: 0;
+}
+
+/*--end--summary--*/
+/*--start--skill--*/
+.babu{
+	    margin-left: 130px !important;
+    vertical-align: middle;
+    border-style: none;
+    margin-top: 50px;
+}
+.nnnnnc {
+    margin-top: 64px;
+
+}
+
+
+/*--end--skill--*/
+
+
+
